@@ -1,6 +1,6 @@
-# 👨‍💻 Your Name - Data Scientist | Machine Learning Engineer
+# 👨‍💻 Aditi Agrawal  - Machine Learning Engineer
 
-Welcome to my GitHub profile! I am a Data Scientist and Machine Learning Engineer with a passion for solving complex problems using data-driven insights. My expertise lies in statistical modeling, machine learning algorithms, and building scalable AI systems. This repository showcases my skills, projects, and experience in data science and machine learning.
+Welcome to my GitHub profile! I am a Machine Learning Engineer with a passion for solving complex problems using data-driven insights. My expertise lies in statistical modeling, machine learning algorithms, and building scalable AI systems. This repository showcases my skills, projects, and experience in data science and machine learning.
 
 ## 🧑‍💻 About Me
 
@@ -12,20 +12,20 @@ I specialize in developing machine learning models and uncovering insights from 
 
 Here are some of the major projects I have worked on:
 
-### 1. [Project Name 1](https://github.com/yourusername/project1)
-- **Description**: Developed a [brief description of the project], applying [key tools/technologies].
-- **Tools**: Python, TensorFlow, scikit-learn, Pandas
-- **Outcome**: Achieved X% improvement in [specific metric or outcome].
+### 1. [MCQ-Generator](https://github.com/Adii265/MCQ-Generator)
+- **Description**: This project performs text summarization and generates multiple-choice questions (MCQs) based on extracted keywords from the summarized text.
+- **Tools**: Python, BERT, Wordnet ConceptNet
+- **Outcome**: 
 
-### 2. [Project Name 2](https://github.com/yourusername/project2)
-- **Description**: Built a [brief description of the project], focused on solving [problem statement].
-- **Tools**: PyTorch, Keras, Numpy, Matplotlib
-- **Outcome**: Reduced processing time by X% and improved accuracy to X%.
+### 2. [Stock-Price-Prediction](https://github.com/Adii265/Stock-Price-Prediction)
+- **Description**: Project involves analyzing time series data using Long Short-Term Memory (LSTM) models.
+- **Tools**: LSTM
+- **Outcome**: LSTM with No Seasonality works best for capturing short-term dependencies with minimal complexity.
 
-### 3. [Project Name 3](https://github.com/yourusername/project3)
-- **Description**: Implemented [project description] to handle large-scale data for [specific use case].
-- **Tools**: R, Hadoop, Spark
-- **Outcome**: Increased model efficiency and scalability by X%.
+### 3. [Search-Engine](https://github.com/Adii265/Search-Engine)
+- **Description**: Search Engine for Quora Question pairs.
+- **Tools**: NLTK, Word2Vec, Cosine Similarity
+- **Outcome**: 
 
 Feel free to check out the repositories for code and more details!
 
@@ -33,14 +33,12 @@ Feel free to check out the repositories for code and more details!
 
 ## 🛠️ Skills & Expertise
 
-- **Programming Languages**: Python, R, SQL, Java
+- **Programming Languages**: Python, SQL, Java, C
 - **Machine Learning & AI**: TensorFlow, Keras, PyTorch, scikit-learn
 - **Data Analysis & Visualization**: Pandas, Numpy, Matplotlib, Seaborn
-- **Deep Learning**: CNNs, RNNs, GANs
-- **Big Data Technologies**: Hadoop, Spark, Hive
-- **Cloud Platforms**: AWS, Google Cloud, Azure
+- **Deep Learning**: CNNs, RNNs, GANs, Transformers
 - **Version Control**: Git, GitHub
-- **Other Tools**: Docker, Jupyter Notebooks
+- **Other Tools**: Pycharm, Jupyter Notebooks
 
 ---
 
@@ -48,9 +46,9 @@ Feel free to check out the repositories for code and more details!
 
 I am always open to discussing new opportunities or collaborations. You can reach me via the following channels:
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [github.com/Adii265](https://github.com/Adii265)
 - **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Email**: [aditiagrawal267@gmail.com](aditiagrawal267@gmail.com)
 
 ---
 
