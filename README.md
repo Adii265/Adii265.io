@@ -43,7 +43,7 @@ Here are some of the major projects I have worked on:
 - **Tools**: OpenCV, Yolo
 - **Outcome**: Bounding boxes are drawn around detected objects, showing the confidence level and class of each detected item.
 
-- ### 7. [Fashion MNIST Classification](https://github.com/Adii265/CNN_Projects/tree/main/Classification%20of%20Fashion%20Mnist)
+### 7. [Fashion MNIST Classification](https://github.com/Adii265/CNN_Projects/tree/main/Classification%20of%20Fashion%20Mnist)
 - **Description**: Classifying images into 10 different fashion categories (e.g., T-shirts, bags, and shoes).
 - **Tools**: Keras, Tensorflow, openCV
 - **Outcome**: The model achieves classification of the Fashion MNIST dataset with performance evaluated through accuracy on the test set, using categorical cross-entropy loss and the Adam optimizer for training.
