@@ -15,7 +15,6 @@ Here are some of the major projects I have worked on:
 ### 1. [MCQ-Generator](https://github.com/Adii265/MCQ-Generator)
 - **Description**: This project performs text summarization and generates multiple-choice questions (MCQs) based on extracted keywords from the summarized text.
 - **Tools**: Python, BERT, Wordnet ConceptNet
-- **Outcome**: 
 
 ### 2. [Stock-Price-Prediction](https://github.com/Adii265/Stock-Price-Prediction)
 - **Description**: Project involves analyzing time series data using Long Short-Term Memory (LSTM) models.
