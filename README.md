@@ -47,7 +47,7 @@ Here are some of the major projects I have worked on:
 - **Description**: Classifying images into 10 different fashion categories (e.g., T-shirts, bags, and shoes).
 - **Tools**: Keras, Tensorflow, openCV
 - **Outcome**: The model achieves classification of the Fashion MNIST dataset with performance evaluated through accuracy on the test set, using categorical cross-entropy loss and the Adam optimizer for training.
-- 
+  
 ### 8. [GPT-2 for Sentiment Analysis on Twitter Dataset](https://github.com/Adii265/LLMs)
 - **Description**: This project fine-tunes the GPT-2 model on a Twitter dataset to perform sentiment analysis.
 - **Tools**: Pytorch, Transformers, Numpy
