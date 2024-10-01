@@ -76,7 +76,7 @@ Feel free to check out the repositories for code and more details!
 I am always open to discussing new opportunities or collaborations. You can reach me via the following channels:
 
 - **GitHub**: [github.com/Adii265](https://github.com/Adii265)
-- **LinkedIn**: []()
+- **LinkedIn**: [https://www.linkedin.com/in/aditi-agrawal-13a700178/](https://www.linkedin.com/in/aditi-agrawal-13a700178/)
 - **Email**: [aditiagrawal267@gmail.com](aditiagrawal267@gmail.com)
 
 ---
